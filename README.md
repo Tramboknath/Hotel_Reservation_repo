@@ -1,2 +1,2 @@
-# Hotel_Reservation_repo
+# Hotel_Reservation_Project
  
